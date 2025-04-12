@@ -25,3 +25,15 @@ Follow the cells step by step.
 # Dataset:
 Download MSTAR from https://www.kaggle.com/datasets/atreyamajumdar/mstar-dataset-8-classes/code.
 Install the zip in google drive and import it in collab to unzip.
+
+# Data Science Focus
+
+# Approach
+- Classification of image was done using different algorithms in which logistic regression 97% and svm 96% give the best accuracies then CNN 94% and xg-boost 95%, decision tree was not very accurate with only 71% accuracy and Randome forest with 84%.
+
+# Data Handling
+- Dataset used: MSTAR (Public Dataset) — includes SAR images of military vehicles captured under different conditions. Dataset was loaded, normalized, filtered and resized for model and hyperparameter tuning was done to find the best fit. Confusion metrics and ROC curve was plotted to check the reliability of the model.
+
+# Model Explainability
+- Included layer visualizations and filter activations for better insight into what the model learns.
+
