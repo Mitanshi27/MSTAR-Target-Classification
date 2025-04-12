@@ -37,3 +37,5 @@ Install the zip in google drive and import it in collab to unzip.
 # Model Explainability
 - Included layer visualizations and filter activations for better insight into what the model learns.
 
+# Google Collab Link
+https://colab.research.google.com/drive/153dIVUZET4mdetpDZSPTPO8ZzJNzYRU1?usp=sharing
